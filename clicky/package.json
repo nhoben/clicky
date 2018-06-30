@@ -1,9 +1,8 @@
-
 {
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nhoben/clicky.git",
+  "homepage": "https://nhoben.github.io/clicky/",
   "dependencies": {
     "react": "^16.2.0",
     "react-countdown-clock": "^2.1.0",
